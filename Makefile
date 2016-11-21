@@ -1,4 +1,4 @@
 all: 
-	gcc src/cpu_test.c -o bin/cpu_tes
+	gcc src/cpu_test.c -o bin/cpu_test
 clean: 
-	rm bin/cpu_testt
+	rm bin/cpu_test

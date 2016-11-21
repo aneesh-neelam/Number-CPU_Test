@@ -1,0 +1,7 @@
+
+* Track bin directory
+!bin/.gitkeep
+
+* Exclude everything else
+bin/*
+
