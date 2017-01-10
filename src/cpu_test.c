@@ -4,7 +4,7 @@
 
 int main() {
   long cpus = sysconf(_SC_NPROCESSORS_ONLN);
-  printf("CPUS: %ld\n", cpus);
-  
+  printf("CPUs: %ld\n", cpus);
+
   return 0;
 }
